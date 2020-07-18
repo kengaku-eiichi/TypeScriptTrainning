@@ -1,4 +1,6 @@
-function toInt(value) {
-    return value.toFixed(0);
+{
+    function toInt(value) {
+        return value.toFixed(0);
+    }
+    console.log(toInt('hoge'));
 }
-console.log(toInt('hoge'));
