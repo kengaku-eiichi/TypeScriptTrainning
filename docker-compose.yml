@@ -1,0 +1,4 @@
+version: '3'
+services:
+    tsc3.9.7:
+        build: ./tsc3.9.7
